@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298731468271",
+    "project_id": "student-management-porta-932f1",
+    "storage_bucket": "student-management-porta-932f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298731468271:android:37a4d6d49ad38be81ab21a",
+        "android_client_info": {
+          "package_name": "com.studentmanagement.portal.student_management_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXub1Uzsn5dx5NZiIEHJF2X00zGhAkAbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
